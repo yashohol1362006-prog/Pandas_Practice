@@ -18,7 +18,7 @@ GroupBy and aggregation
 Pivot tables 
 apply(), lambda functions and mapping
 Basic data preprocessing
-Tools & Libraries
+Tools & Libraries 
 Python
 Pandas
 NumPy
