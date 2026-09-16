@@ -5,7 +5,7 @@ Pandas Practice
 This repository contains my practice and learning work while studying Pandas for Data Analysis and Machine Learning.
 
 Topics Covered 
-Pandas Series
+Pandas Series 
 DataFrames
 Creating and manipulating DataFrames
 Selecting and indexing data
