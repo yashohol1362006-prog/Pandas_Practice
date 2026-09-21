@@ -8,7 +8,7 @@ Topics Covered
 Pandas Series 
 DataFrames
 Creating and manipulating DataFrames
-Selecting and indexing data
+Selecting and indexing data 
 Conditional filtering
 Handling missing data
 Adding and removing columns
