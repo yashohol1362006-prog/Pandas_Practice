@@ -10,7 +10,7 @@ DataFrames
 Creating and manipulating DataFrames
 Selecting and indexing data 
 Conditional filtering
-Handling missing data
+Handling missing data 
 Adding and removing columns
 Merging DataFrames
 Concatenation and joins
