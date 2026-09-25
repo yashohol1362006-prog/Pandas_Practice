@@ -15,7 +15,7 @@ Adding and removing columns
 Merging DataFrames
 Concatenation and joins
 GroupBy and aggregation
-Pivot tables 
+Pivot tables  
 apply(), lambda functions and mapping
 Basic data preprocessing
 Tools & Libraries 
