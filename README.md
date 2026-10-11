@@ -13,7 +13,7 @@ Conditional filtering
 Handling missing data 
 Adding and removing columns
 Merging DataFrames
-Concatenation and joins
+Concatenation and joins 
 GroupBy and aggregation
 Pivot tables  
 apply(), lambda functions and mapping
